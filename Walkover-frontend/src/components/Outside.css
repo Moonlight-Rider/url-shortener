@@ -1,0 +1,38 @@
+body{
+    background-image: url('./bgm.jpg');
+    height:100%;
+    background-position: left(1600);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+.tt{
+    color:rgb(232, 143, 11);
+    font-size: 20px;
+    border: 1px solid white;
+    font-family: 'Syne Mono', monospace;
+   
+}
+.pala{
+    color:rgb(176, 137, 8);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+.but{
+  
+    text-decoration: none;
+    color:rgb(229, 15, 15);
+    margin-left:15px;
+    font-size: 25px;
+    border: 1px solid rgb(219, 10, 10);
+    border-radius: 5px;
+   padding-left: 3px;
+   padding-right: 3px;
+   font-family: 'Syne Mono', monospace;
+   text-align: center;
+}
+.but:hover{
+    color: rgb(210, 14, 151);
+    border: 2px solid white;
+}
